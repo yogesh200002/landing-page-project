@@ -38,6 +38,39 @@ ul{
     justify-content: space-between;
 }
 
+.headtxt2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+    align-items: center;
+    height: 100px;
+}
+
+.itext{
+    text-align: center;
+}
+
+.quote{
+    display: flex;
+    justify-content: center;
+}
+
+.signup{
+    display: flex;
+    justify-content: center;
+}
+
+.footer{
+    display: flex;
+}
+
 .textcontain{
     display: flex;
     flex-direction: column;
