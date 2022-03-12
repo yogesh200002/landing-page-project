@@ -15,9 +15,9 @@ body{
 .logo{
     display: flex;
     align-items: center;
-    color: white;
-    font-size: 24px;
-    font-weight: bold;
+    height: 50px;
+    border: 0;
+    object-fit: contain;
 }
 
 ul{
@@ -40,7 +40,7 @@ ul{
 }
 
 .headtxt1{
-    font-size: 48px;
+    font-size: 40px;
     font-weight: bolder;
     color: #e5e7eb;
 }
@@ -50,7 +50,7 @@ ul{
 }
 
 .img1{
-    height: 250px;
+    height: 220px;
     width: 500px;
     border: 0;
     object-fit: cover;
@@ -70,8 +70,9 @@ ul{
     justify-content: center;
     align-items: flex-end;
     height: 65px;
-    font-size: 30px;
-    font-weight: bold;
+    font-size: 36px; 
+    font-weight: bolder;
+    color: #1f2937;
 }
 
 .info{
